@@ -56,7 +56,7 @@ Create Pull Request so your TAs can check up your work.
   <br>
 	  - `The driver has the longest name, it has XX characters.` or <br>
 	  - `It seems that the navigator has the longest name, it has XX characters.` or <br>
-	  - `Wow, you both have equally long names, XX characters!`.
+	  - Wow, you both have equally long names, XX characters!`.
 
 ### Iteration 3: Loops
   3.1 Print all the characters of the driver's name, separated by a space and [in capitals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
